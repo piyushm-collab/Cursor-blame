@@ -1,0 +1,23 @@
+testcase/armstrong.go
+  db64bf3dc026bf2b 1-64,66-78
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.37",
+  "base_commit_sha": "d8f19beca7fc14da18cd2971b9d2399b2c077248",
+  "prompts": {
+    "db64bf3dc026bf2b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "18c28a03-c9b9-48c8-81dc-13d5ff8d8278",
+        "model": "claude-sonnet-4-5-20250929"
+      },
+      "human_author": "piyushm-collab <piyush.m@razorpay.com>",
+      "messages": [],
+      "total_additions": 77,
+      "total_deletions": 0,
+      "accepted_lines": 77,
+      "overriden_lines": 0
+    }
+  }
+}
