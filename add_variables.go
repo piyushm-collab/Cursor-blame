@@ -2,9 +2,6 @@ package main
 
 import "fmt"
 
-// AddStrings concatenates two string variables and returns the concatenated result.
-// It takes two string parameters and combines them into a single string.
-//
 // Parameters:
 //   - str1: First string to concatenate
 //   - str2: Second string to concatenate
@@ -12,6 +9,7 @@ import "fmt"
 // Returns:
 //   - string: The concatenated result of str1 + str2
 func AddStrings(str1, str2 string) string {
+	// hey there i am  adding something into it , what about you 
 	return str1 + str2
 }
 
