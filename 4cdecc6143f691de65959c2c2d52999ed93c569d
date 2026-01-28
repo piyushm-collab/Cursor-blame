@@ -1,0 +1,23 @@
+testcase/fibonacci.go
+  7ff0adefd07af81e 1-26,28-62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.37",
+  "base_commit_sha": "4cdecc6143f691de65959c2c2d52999ed93c569d",
+  "prompts": {
+    "7ff0adefd07af81e": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "9bd854ae-96dd-4304-8bc2-ec4fddc4a13e",
+        "model": "composer-1"
+      },
+      "human_author": "piyushm-collab <piyush.m@razorpay.com>",
+      "messages": [],
+      "total_additions": 61,
+      "total_deletions": 0,
+      "accepted_lines": 61,
+      "overriden_lines": 0
+    }
+  }
+}
