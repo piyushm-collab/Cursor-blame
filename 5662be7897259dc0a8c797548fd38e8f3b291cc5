@@ -1,0 +1,23 @@
+add_variables.go
+  7ff0adefd07af81e 12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.37",
+  "base_commit_sha": "5662be7897259dc0a8c797548fd38e8f3b291cc5",
+  "prompts": {
+    "7ff0adefd07af81e": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "9bd854ae-96dd-4304-8bc2-ec4fddc4a13e",
+        "model": "composer-1"
+      },
+      "human_author": "piyushm-collab <piyush.m@razorpay.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 3,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
